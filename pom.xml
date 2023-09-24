@@ -7,6 +7,8 @@
   <groupId>com.citi</groupId>
   <artifactId>citiWebApp</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <packaging>war</packaging>
+  <description>My First Web Application</description>
 
   <name>citiWebApp</name>
   <!-- FIXME change it to the project's website -->
